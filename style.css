@@ -486,10 +486,10 @@ header.scrolled {
 }
 
 .profile-image {
-    width: 400px;          /* خليه مربع علشان تطلع دايرة */
+    width: 400px;         
     height: 400px;
     object-fit: cover;
-    border-radius: 50%;    /* أهم خطوة: تحويل الصورة إلى دائرة */
+    border-radius: 50%;   
     box-shadow: var(--shadow-card);
     transition: var(--transition-smooth);
     border: 3px solid var(--glass-border);
@@ -580,10 +580,10 @@ header.scrolled {
 
 
 .about-img {
-    width: 400px;          /* خليه مربع علشان تطلع دايرة */
+    width: 400px;         
     height: 400px;
     object-fit: cover;
-    border-radius: 80%;    /* أهم خطوة: تحويل الصورة إلى دائرة */
+    border-radius: 80%;   
     box-shadow: var(--shadow-card);
     border: 3px solid var(--glass-border);
     transition: var(--transition-smooth);
